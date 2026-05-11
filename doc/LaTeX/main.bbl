@@ -1,0 +1,94 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Breiman(2001)]{breiman2001random}
+Breiman, L.
+\newblock Random forests.
+\newblock \emph{Machine Learning}, 45\penalty0 (1):\penalty0 5--32, 2001.
+\newblock \doi{10.1023/A:1010933404324}.
+
+\bibitem[Chen \& Guestrin(2016)Chen and Guestrin]{chen2016xgboost}
+Chen, T. and Guestrin, C.
+\newblock {XGBoost}: A scalable tree boosting system.
+\newblock In \emph{Proceedings of the 22nd ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, pp.\  785--794, 2016.
+\newblock \doi{10.1145/2939672.2939785}.
+
+\bibitem[Gorelick et~al.(2017)Gorelick, Hancher, Dixon, Ilyushchenko, Thau, and
+  Moore]{gorelick2017gee}
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., and Moore, R.
+\newblock Google earth engine: Planetary-scale geospatial analysis for
+  everyone.
+\newblock \emph{Remote Sensing of Environment}, 202:\penalty0 18--27, 2017.
+\newblock \doi{10.1016/j.rse.2017.06.031}.
+
+\bibitem[Hahs et~al.(2024)Hahs, Sood, and Gomez]{hahs2024datadriven}
+Hahs, B., Sood, K., and Gomez, D.
+\newblock A data-driven model for wildfire prediction in california.
+\newblock In \emph{2024 International Conference on Smart Applications,
+  Communications and Networking (SmartNets)}, pp.\  1--6, 2024.
+\newblock \doi{10.1109/SmartNets61466.2024.10577731}.
+
+\bibitem[Hernandez \& Hoskins(2024)Hernandez and
+  Hoskins]{hernandez2024centralvalley}
+Hernandez, K. and Hoskins, A.~B.
+\newblock Machine learning algorithms applied to wildfire data in california's
+  central valley.
+\newblock \emph{Trees, Forests and People}, 15:\penalty0 100516, 2024.
+\newblock \doi{10.1016/j.tfp.2024.100516}.
+
+\bibitem[{NASA Earthdata}(2026)]{nasafirms}
+{NASA Earthdata}.
+\newblock {NASA FIRMS}: Fire information for resource management system.
+\newblock \url{https://www.earthdata.nasa.gov/data/tools/firms}, 2026.
+\newblock Accessed 2026.
+
+\bibitem[Paszke et~al.(2019)Paszke, Gross, Massa, Lerer, Bradbury, Chanan,
+  Killeen, Lin, Gimelshein, Antiga, Desmaison, K{"o}pf, Yang, DeVito, Raison,
+  Tejani, Chilamkurthy, Steiner, Fang, Bai, and Chintala]{paszke2019pytorch}
+Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen,
+  T., Lin, Z., Gimelshein, N., Antiga, L., Desmaison, A., K{"o}pf, A., Yang,
+  E., DeVito, Z., Raison, M., Tejani, A., Chilamkurthy, S., Steiner, B., Fang,
+  L., Bai, J., and Chintala, S.
+\newblock {PyTorch}: An imperative style, high-performance deep learning
+  library.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~32, 2019.
+
+\bibitem[Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion,
+  Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay]{pedregosa2011scikit}
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
+  O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
+  Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and Duchesnay, {\'E}.
+\newblock Scikit-learn: Machine learning in python.
+\newblock \emph{Journal of Machine Learning Research}, 12:\penalty0 2825--2830,
+  2011.
+
+\bibitem[Pham et~al.(2022)Pham, Ward, Rubio, Shin, Zlotikman, Ramirez,
+  Poplawski, and Jiang]{pham2022california}
+Pham, K., Ward, D., Rubio, S., Shin, D., Zlotikman, L., Ramirez, S., Poplawski,
+  T., and Jiang, X.
+\newblock California wildfire prediction using machine learning.
+\newblock In \emph{2022 21st IEEE International Conference on Machine Learning
+  and Applications (ICMLA)}, pp.\  525--530. IEEE, 2022.
+\newblock \doi{10.1109/ICMLA55696.2022.00086}.
+
+\bibitem[Xie et~al.(2025)Xie, Xiao, Zhang, and Xu]{xie2025spatiotemporal}
+Xie, S., Xiao, H., Zhang, G., and Xu, H.
+\newblock A spatiotemporal wildfire risk prediction framework integrating
+  density-based clustering and {GTWR-RFR}.
+\newblock \emph{Forests}, 16\penalty0 (11):\penalty0 1632, 2025.
+\newblock \doi{10.3390/f16111632}.
+
+\bibitem[Yavas et~al.(2025)Yavas, Kadlec, Kim, and Chen]{yavas2025california}
+Yavas, C.~E., Kadlec, C., Kim, J., and Chen, L.
+\newblock California weather and fire prediction dataset (1984--2025) with
+  engineered features.
+\newblock Zenodo, 2025.
+
+\end{thebibliography}
